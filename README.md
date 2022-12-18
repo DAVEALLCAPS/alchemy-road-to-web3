@@ -18,3 +18,8 @@ Here are links to each of the learning challenges in the Road to Web 3 Series.
 8.  [How to Build a Betting Game on Optimism](https://docs.alchemy.com/docs/how-to-build-a-betting-game-on-optimism)
 9.  [How to Build a Token Swap Dapp with 0x API](https://docs.alchemy.com/docs/how-to-build-a-token-swap-dapp-with-0x-api)
 10. [How to Create a Decentralized Twitter with Lens Protocol](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol)
+
+
+
+## Completed
+1. [NFT Smart Contract](/01/README.md)
