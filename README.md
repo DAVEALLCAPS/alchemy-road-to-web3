@@ -23,3 +23,4 @@ Here are links to each of the learning challenges in the Road to Web 3 Series.
 
 ## Completed
 1. [NFT Smart Contract](/01/README.md)
+2. [BuyMeACoffee dAPP](/02/README.md)
